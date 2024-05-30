@@ -1,6 +1,6 @@
-package strategy.SimUDuck;
+package strategy.simUDuck;
 
-import strategy.SimUDuck.behavior.FlyRocketPowered;
+import strategy.simUDuck.behavior.FlyRocketPowered;
 
 public class Main {
     public static void main(String[] args) {

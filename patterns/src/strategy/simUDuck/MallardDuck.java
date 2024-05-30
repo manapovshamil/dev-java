@@ -1,7 +1,7 @@
-package strategy.SimUDuck;
+package strategy.simUDuck;
 
-import strategy.SimUDuck.behavior.FlyWithWinks;
-import strategy.SimUDuck.behavior.Quack;
+import strategy.simUDuck.behavior.FlyWithWinks;
+import strategy.simUDuck.behavior.Quack;
 
 public class MallardDuck extends Duck{
 
