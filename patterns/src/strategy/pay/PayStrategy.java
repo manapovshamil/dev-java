@@ -1,4 +1,5 @@
 package strategy.pay;
 
-public class PayStrategy {
+public interface PayStrategy {
+    void pay(int amount);
 }
