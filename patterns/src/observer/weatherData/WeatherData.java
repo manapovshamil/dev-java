@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class WeatherData implements Subject{
 
-    private ArrayList<Observer> observers;
+    private final ArrayList<Observer> observers;
     private float temperature;
 
     private float humidity;

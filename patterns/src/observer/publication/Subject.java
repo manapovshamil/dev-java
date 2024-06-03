@@ -1,7 +1,7 @@
 package observer.publication;
 
 public interface Subject {
-    public void registerObserver(Observer observer);
-    public void removeObserver(Observer observer);
-    public void notifyObservers();
+    void registerObserver(Observer observer);
+    void removeObserver(Observer observer);
+    void notifyObservers();
 }
